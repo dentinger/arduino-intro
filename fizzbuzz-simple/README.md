@@ -4,4 +4,4 @@ This is a simple version of fizzbuzz for arduino using the followign circuit.
 
 ![fizzbuzz circuit](fizzbuzz-simple.png)
 
-[Code](fizzbuzz_simple.ino)
+[Code](fizzbuzz-simple.ino)

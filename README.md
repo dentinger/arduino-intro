@@ -5,3 +5,5 @@ Sample code for an intro to Arduino presentation
   * [Simple Single LED](fizzbuzz-simple/README.md) 
 * Larson Scanner
   * [Scanning LEDs](larson-scanner/)
+* Pulse Width Modulation
+  * [Simple Introduction](pwm-simple/)

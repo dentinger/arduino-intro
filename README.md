@@ -8,3 +8,4 @@ Sample code for an intro to Arduino presentation
   * [Scanning LEDs](larson-scanner/)
 * Pulse Width Modulation
   * [Simple Introduction](pwm-simple/)
+  * [Change multiple LED brightnesses at different rates](pwm-ledmotion/)
